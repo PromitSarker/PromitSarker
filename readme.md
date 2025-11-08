@@ -1,7 +1,7 @@
-![Banner](https://github.com/dumb-meh/dumb-meh/blob/main/assets/github-cover.png)
+![Banner]()
 
-<h2 align="center">Omar Faruq Shikdar</h2>
-<p align="center">AI Engineer • Data Scientist • ML Researcher</p>
+<h2 align="center">Promit Sarker</h2>
+<p align="center">AI Engineer • Django Developer • ML Researcher</p>
 
 ---
 
@@ -15,7 +15,7 @@ AI Engineer specializing in intelligent systems, FastAPI applications, and RAG s
 
 **Languages & Frameworks**
 
-Python • TensorFlow • PyTorch • FastAPI • Docker
+Python • Django • TensorFlow • PyTorch • FastAPI • Docker
 
 
 **Tools & Platforms**
@@ -41,10 +41,10 @@ Git • Jupyter • MySQL • Pandas • NumPy • Nginx
   <a href="https://www.linkedin.com/in/omar-faruq-shikdar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://omar-faruq-shikdar.framer.website/">
+  <a href="https://portfolio-promit.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat" />
   </a>
-  <a href="mailto:omorfaruk549@gmail.com">
+  <a href="mailto:promitsrkr@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </div>
