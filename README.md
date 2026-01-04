@@ -9,8 +9,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="C logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="Tensorflow logo"  />
