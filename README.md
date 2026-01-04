@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="200" src=""  />
+</div>
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 ###
@@ -58,14 +61,6 @@
 
 ###
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/PromitSarker/PromitSarker/output/pacman-contribution-graph-dark.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/PromitSarker/PromitSarker/output/pacman-contribution-graph.svg"
-    alt="pacman contribution graph"
-  />
-</picture>
+
+
 ###
