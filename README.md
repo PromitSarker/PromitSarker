@@ -58,9 +58,14 @@
 
 ###
 
-<img
-  src="https://raw.githubusercontent.com/PromitSarker/PromitSarker/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only"
-  alt="pacman contribution graph dark"
-/>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PromitSarker/PromitSarker/output/pacman-contribution-graph-dark.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/PromitSarker/PromitSarker/output/pacman-contribution-graph.svg"
+    alt="pacman contribution graph"
+  />
+</picture>
 ###
