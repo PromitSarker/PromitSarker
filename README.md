@@ -63,10 +63,6 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PromitSarker/PromitSarker/output/snake.svg" alt="Snake animation" />
-  <br clear="both">
   <br>
   <br>
   <br>
