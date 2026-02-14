@@ -1,11 +1,10 @@
 <div align="center">
 👋 Hey, I'm Promit
-
 🧠 AI Engineer | ML Systems | Production-Grade Intelligence
-
 I design, train, and deploy scalable AI systems — from model experimentation to production APIs.
 
 </div>
+<br>
 🚀 What I Actually Do
 
 🧠 Build and fine-tune ML/DL models
@@ -19,7 +18,7 @@ I design, train, and deploy scalable AI systems — from model experimentation t
 🐳 Containerize & ship models with reproducibility in mind
 
 I care about clean architecture, latency, maintainability, and real-world impact.
-
+<br>
 🛠 Core Stack
 <div align="center"> 
 <a href="https://www.python.org/doc/" target="_blank">
@@ -66,7 +65,7 @@ I care about clean architecture, latency, maintainability, and real-world impact
     <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
   </a>
 </div>
-
+<br>
 🧩 Systems I Work On
 
 FineTuning and Train LLM models
@@ -84,10 +83,12 @@ API-driven AI backends
 Scalable inference services
 
 If it doesn’t deploy, it doesn’t count.
-
+<br>
 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PromitSarker&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" width="90%"/> </div>
+<br>
 📊 GitHub Stats
 <div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=PromitSarker&theme=gruvbox&hide_border=true" width="48%" /> <br/> </div>
+<br>
 🌐 Connect
 <div align="center"> <a href="https://www.linkedin.com/in/promitsarker"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
