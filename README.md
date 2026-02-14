@@ -1,5 +1,5 @@
 <div align="center">
-👋 # Hey, I'm Promit
+👋 Hey, I'm Promit
 
 
 
