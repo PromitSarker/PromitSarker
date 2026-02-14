@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 
+<h1><span style="font-size:60px;">👋</span> 
 # **HEY, I'M PROMIT**
 
 
