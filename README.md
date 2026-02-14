@@ -1,82 +1,43 @@
-
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
+👋 Hey, I'm Promit
 <div align="center">
-  <a href="https://www.python.org/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://www.djangoproject.com/start/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://devdocs.io/c/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" height="60" alt="C logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://docs.oracle.com/javase/8/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://www.tensorflow.org/learn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://pytorch.org/docs/stable/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://www.postman.com/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://aws.amazon.com/documentation/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
-  </a>
-</div>
+🧠 AI Engineer | ML Systems | Production-Grade Intelligence
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/promitsarker" target="">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  
-###
-
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PromitSarker&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
-</div>
-
-<br>
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=PromitSarker&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PromitSarker&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PromitSarker&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=PromitSarker&icon=0&color=0)](https://visitcount.itsvg.in)
+I design, train, and deploy scalable AI systems — from model experimentation to production APIs.
 
 </div>
+🚀 What I Actually Do
 
-###
+🧠 Build and fine-tune ML/DL models
 
+📦 Deploy models as scalable backend services
 
+🔎 Design AI-powered search & context retrieval systems
 
-###
+⚙️ Optimize inference pipelines for performance
+
+🐳 Containerize & ship models with reproducibility in mind
+
+I care about clean architecture, latency, maintainability, and real-world impact.
+
+🛠 Core Stack
+<div align="center"> <a href="https://www.python.org/doc/" target="_blank"> <img src="https://skillicons.dev/icons?i=py" height="55" /> </a> <a href="https://www.tensorflow.org/learn" target="_blank"> <img src="https://skillicons.dev/icons?i=tensorflow" height="55" /> </a> <a href="https://pytorch.org/docs/stable/" target="_blank"> <img src="https://skillicons.dev/icons?i=pytorch" height="55" /> </a> <a href="https://www.djangoproject.com/start/" target="_blank"> <img src="https://skillicons.dev/icons?i=django" height="55" /> </a> <a href="https://docs.docker.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" height="55" /> </a> <a href="https://aws.amazon.com/documentation/" target="_blank"> <img src="https://skillicons.dev/icons?i=aws" height="55" /> </a> </div>
+🧩 Systems I Work On
+
+Context-aware AI search engines
+
+LLM-powered assistants & document intelligence
+
+ML pipelines with reproducible experiments
+
+API-driven AI backends
+
+Scalable inference services
+
+If it doesn’t deploy, it doesn’t count.
+
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PromitSarker&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" width="90%"/> </div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PromitSarker&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" width="48%" /> <img src="https://nirzak-streak-stats.vercel.app/?user=PromitSarker&theme=gruvbox&hide_border=true" width="48%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromitSarker&theme=gruvbox&hide_border=true&layout=compact" width="50%" /> </div>
+🌐 Connect
+<div align="center"> <a href="https://www.linkedin.com/in/promitsarker"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
