@@ -38,6 +38,6 @@ If it doesn’t deploy, it doesn’t count.
 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PromitSarker&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" width="90%"/> </div>
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PromitSarker&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" width="48%" /> <img src="https://nirzak-streak-stats.vercel.app/?user=PromitSarker&theme=gruvbox&hide_border=true" width="48%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromitSarker&theme=gruvbox&hide_border=true&layout=compact" width="50%" /> </div>
+<div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=PromitSarker&theme=gruvbox&hide_border=true" width="48%" /> <br/> </div>
 🌐 Connect
 <div align="center"> <a href="https://www.linkedin.com/in/promitsarker"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
