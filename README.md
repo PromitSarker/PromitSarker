@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 **HEY, I'M PROMIT**
+👋 
+# **HEY, I'M PROMIT**
 
 
-
-### 🧠 AI Engineer  
+### AI Engineer  
 **ML Systems | Production-Grade Intelligence**
 
 I design, train, and deploy scalable AI systems —  
