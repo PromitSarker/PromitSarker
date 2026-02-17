@@ -100,3 +100,11 @@ from model experimentation to production APIs.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
+---
+
+## Profile Visited
+
+<div align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=TheWitch593&color=FFB6C1&style=for-the-badge&label=Profile+Views)
+</div>
