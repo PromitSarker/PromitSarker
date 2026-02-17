@@ -88,7 +88,7 @@ from model experimentation to production APIs.
 ## 📊 GitHub Stats
 
 <div align="center">
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=PromitSarker&theme=gruvbox&hide_border=true&exclude_days=Fri)](https://git.io/streak-stats)
+  <!-- [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=PromitSarker&theme=gruvbox&hide_border=true&exclude_days=Fri)](https://git.io/streak-stats) -->
 </div>
 
 ---
