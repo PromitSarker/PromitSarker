@@ -102,9 +102,3 @@ from model experimentation to production APIs.
 </div>
 
 ---
-
-## Profile Visited
-
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=PromitSarker)
-</div>
