@@ -106,5 +106,5 @@ from model experimentation to production APIs.
 ## Profile Visited
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=TheWitch593&color=FFB6C1&style=for-the-badge&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=PromitSarker&color=FFB6C1&style=for-the-badge&label=Profile+Views)
 </div>
