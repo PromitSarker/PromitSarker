@@ -1,6 +1,6 @@
-<div align="right">
-  (https://komarev.com/ghpvc/?username=PromitSarker)
-</div>
+
+                        ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=PromitSarker)
+
 
 <div align="center">
 
