@@ -1,3 +1,7 @@
+<div align="right">
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=PromitSarker)
+</div>
+
 <div align="center">
 
 <h1><span style="font-size:69px;">👋</span> </h1>
@@ -102,4 +106,3 @@ from model experimentation to production APIs.
 </div>
 
 ---
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=PromitSarker)
