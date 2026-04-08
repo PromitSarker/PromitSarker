@@ -11,7 +11,7 @@
 ### AI Engineer  
 **ML Systems | Production-Grade Intelligence**
 
-I design, train, and deploy scalable AI systems —  
+I design, train, and deploy scalable AI systems   
 from model experimentation to production APIs.
 
 </div>
