@@ -1,5 +1,4 @@
-
-                        ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=PromitSarker)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=PromitSarker)
 
 
 <div align="center">
