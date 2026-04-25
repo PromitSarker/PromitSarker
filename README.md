@@ -88,16 +88,6 @@ from model experimentation to production APIs.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=PromitSarker&theme=gruvbox&exclude_days=Fri" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
 ## 🌐 Connect
 
 <div align="center">
