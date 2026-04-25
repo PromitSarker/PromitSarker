@@ -1,111 +1,74 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=PromitSarker)
+![Profile Views](https://komarev.com/ghpvc/?username=PromitSarker&color=00FF00&style=flat-square&label=PROFILE+VIEWS)
 
+<br/>
 
 <div align="center">
 
-<h1><span style="font-size:69px;">👋</span> </h1>
+# PROMIT SARKER
+### `AI Engineer · Researcher`
 
-# **HEY, I'M PROMIT**
+<br/>
 
-
-### AI Engineer  
-**ML Systems | Production-Grade Intelligence**
-
-I design, train, and deploy scalable AI systems   
-from model experimentation to production APIs.
+*I design and ship intelligent systems —*  
+*from raw experimentation to production APIs.*
 
 </div>
 
 ---
 
-## 🚀 What I Actually Do
+## ⚡ What I Build
+RAG Pipelines         →  Context-aware retrieval over real documents
+LLM Fine-tuning       →  Task-specific models (LoRA, PEFT, SFT)
+Agentic Systems       →  LangGraph / MCP / tool-calling agents
+Inference Backends    →  FastAPI services, latency-optimized
+Vector Search         →  FAISS, ChromaDB, semantic retrieval
 
-- 🧠 **Build & fine-tune ML/DL models**
-- 📦 **Deploy models as scalable backend services**
-- 🔎 **Design AI-powered search & context retrieval systems**
-- ⚙️ **Optimize inference pipelines for performance**
-- 🐳 **Containerize & ship models with reproducibility in mind**
-
-> I care about clean architecture, latency, maintainability, and real-world impact.
+> Clean architecture. Real deployments. If it doesn't ship, it doesn't count.
 
 ---
 
-## 🛠 Core Stack
+## 🛠 Stack
 
-### 🤖 AI & Backend
+### AI & Backend
 <div align="center">
-<a href="https://www.python.org/doc/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=py" height="55" />
-</a>
-<a href="https://pytorch.org/docs/stable/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="55" />
-</a>
-<a href="https://www.tensorflow.org/learn" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" />
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="55" />
-</a>
-<a href="https://www.djangoproject.com/start/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=django" height="55" />
-</a>
+<a href="https://www.python.org/doc/"><img src="https://skillicons.dev/icons?i=py" height="50" /></a>&nbsp;
+<a href="https://pytorch.org/docs/stable/"><img src="https://skillicons.dev/icons?i=pytorch" height="50" /></a>&nbsp;
+<a href="https://www.tensorflow.org/learn"><img src="https://skillicons.dev/icons?i=tensorflow" height="50" /></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="50" /></a>&nbsp;
+<a href="https://www.djangoproject.com/start/"><img src="https://skillicons.dev/icons?i=django" height="50" /></a>
 </div>
 
-### 🗄️ Databases & DevOps
+### Databases & DevOps
 <div align="center">
-<a href="https://www.postgresql.org/docs/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postgres" height="55" />
-</a>
-<a href="https://www.mongodb.com/docs/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
-</a>
-<a href="https://docs.docker.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=docker" height="55" />
-</a>
-<a href="https://git-scm.com/doc" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" height="55" />
-</a>
-<a href="https://aws.amazon.com/documentation/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws" height="55" />
-</a>
+<a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" height="50" /></a>&nbsp;
+<a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb" height="50" /></a>&nbsp;
+<a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="50" /></a>&nbsp;
+<a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" height="50" /></a>&nbsp;
+<a href="https://aws.amazon.com/documentation/"><img src="https://skillicons.dev/icons?i=aws" height="50" /></a>
 </div>
 
-### 🌐 Frontend & Tools
+### Frontend & Tools
 <div align="center">
-<a href="https://react.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" height="55" />
-</a>
-<a href="https://www.postman.com/docs/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postman" height="55" />
-</a>
-<a href="https://devdocs.io/c/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" height="55" />
-</a>
-<a href="https://docs.oracle.com/javase/8/docs/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" height="55" />
-</a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="50" /></a>&nbsp;
+<a href="https://www.postman.com/docs/"><img src="https://skillicons.dev/icons?i=postman" height="50" /></a>&nbsp;
+<a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c" height="50" /></a>&nbsp;
+<a href="https://docs.oracle.com/javase/8/docs/"><img src="https://skillicons.dev/icons?i=java" height="50" /></a>
 </div>
 
 ---
 
-## 🧩 Systems I Work On
-
-- 🔥 **Fine-tuning & training LLMs**
-- 🔎 **Context-aware AI search engines**
-- 🤖 **LLM-powered assistants & document intelligence**
-- 🏗 **RAG architectures (LangChain, MCP, LangGraph)**
-- 🧪 **Reproducible ML pipelines**
-- 🌐 **API-driven AI backends**
-- ⚡ **Scalable inference services**
-
-> If it doesn’t deploy, it doesn’t count.
-
----
-
-## 📈 Contribution Graph
+## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PromitSarker&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PromitSarker&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=ffffff" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromitSarker&layout=compact&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&title_color=00FF00&text_color=ffffff" height="160"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PromitSarker&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" width="92%"/>
 </div>
 
 ---
@@ -114,8 +77,12 @@ from model experimentation to production APIs.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/promitsarker">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
+  </a>&nbsp;
+  <a href="mailto:promitsrkr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
   </a>
 </div>
 
----
+<br/>
+<div align="center"><sub>Built systems. Shipped models. Still going.</sub></div>
