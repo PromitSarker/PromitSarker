@@ -32,13 +32,51 @@ from model experimentation to production APIs.
 
 ## 🛠 Core Stack
 
+### 🤖 AI & Backend
 <div align="center">
-
 <a href="https://www.python.org/doc/" target="_blank">
   <img src="https://skillicons.dev/icons?i=py" height="55" />
 </a>
+<a href="https://pytorch.org/docs/stable/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="55" />
+</a>
+<a href="https://www.tensorflow.org/learn" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" />
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="55" />
+</a>
 <a href="https://www.djangoproject.com/start/" target="_blank">
   <img src="https://skillicons.dev/icons?i=django" height="55" />
+</a>
+</div>
+
+### 🗄️ Databases & DevOps
+<div align="center">
+<a href="https://www.postgresql.org/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" />
+</a>
+<a href="https://www.mongodb.com/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
+</a>
+<a href="https://docs.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" height="55" />
+</a>
+<a href="https://git-scm.com/doc" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="55" />
+</a>
+<a href="https://aws.amazon.com/documentation/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" height="55" />
+</a>
+</div>
+
+### 🌐 Frontend & Tools
+<div align="center">
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" height="55" />
+</a>
+<a href="https://www.postman.com/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postman" height="55" />
 </a>
 <a href="https://devdocs.io/c/" target="_blank">
   <img src="https://skillicons.dev/icons?i=c" height="55" />
@@ -46,22 +84,6 @@ from model experimentation to production APIs.
 <a href="https://docs.oracle.com/javase/8/docs/" target="_blank">
   <img src="https://skillicons.dev/icons?i=java" height="55" />
 </a>
-<a href="https://www.tensorflow.org/learn" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" />
-</a>
-<a href="https://pytorch.org/docs/stable/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="55" />
-</a>
-<a href="https://docs.docker.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=docker" height="55" />
-</a>
-<a href="https://www.postman.com/docs/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postman" height="55" />
-</a>
-<a href="https://aws.amazon.com/documentation/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws" height="55" />
-</a>
-
 </div>
 
 ---
