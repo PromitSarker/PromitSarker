@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=PromitSarker&color=555&style=flat-square&label=visits)
+![](https://komarev.com/ghpvc/?username=PromitSarker&color=555555&style=flat-square&label=visits)
 
 ```
 ╔══════════════════════════════════════════════════════╗
